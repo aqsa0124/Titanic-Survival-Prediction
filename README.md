@@ -1,2 +1,4 @@
-# Titanic-Survival-Prediction
-Titanic survival prediction using machine learning
+Projects
+Titanic Survival Prediction
+Iris Flower Classification
+Movie Rating
